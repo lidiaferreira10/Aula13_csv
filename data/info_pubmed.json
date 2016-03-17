@@ -1,0 +1,142 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "26772920"
+        ],
+        "26772920": {
+            "uid": "26772920",
+            "pubdate": "2016 Apr",
+            "epubdate": "2016 Jan 6",
+            "source": "Int J Biol Macromol",
+            "authors": [
+                {
+                    "name": "Chamoli S",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Kumar P",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Navani NK",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Verma AK",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Verma AK",
+            "title": "Secretory expression, characterization and docking study of glucose-tolerant β-glucosidase from B. subtilis.",
+            "sorttitle": "secretory expression characterization and docking study of glucose tolerant glucosidase from b subtilis ",
+            "volume": "85",
+            "issue": "",
+            "pages": "425-33",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "7909578",
+            "issn": "0141-8130",
+            "essn": "1879-0003",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - in process",
+            "pubstatus": "256",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "26772920"
+                },
+                {
+                    "idtype": "pii",
+                    "idtypen": 4,
+                    "value": "S0141-8130(16)30001-0"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1016/j.ijbiomac.2016.01.001"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "26772920"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "26772920"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "received",
+                    "date": "2015/10/20 00:00"
+                },
+                {
+                    "pubstatus": "revised",
+                    "date": "2015/12/27 00:00"
+                },
+                {
+                    "pubstatus": "accepted",
+                    "date": "2016/01/01 00:00"
+                },
+                {
+                    "pubstatus": "aheadofprint",
+                    "date": "2016/01/06 00:00"
+                },
+                {
+                    "pubstatus": "entrez",
+                    "date": "2016/01/17 06:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2016/01/17 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2016/01/17 06:00"
+                }
+            ],
+            "references": [
+            ],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": 0,
+            "fulljournalname": "International journal of biological macromolecules",
+            "elocationid": "doi: 10.1016/j.ijbiomac.2016.01.001",
+            "viewcount": 87,
+            "doctype": "citation",
+            "srccontriblist": [
+            ],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [
+            ],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2016/04/01 00:00",
+            "sortfirstauthor": "Chamoli S",
+            "vernaculartitle": ""
+        }
+    }
+}

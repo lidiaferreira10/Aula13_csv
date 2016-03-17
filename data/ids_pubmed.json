@@ -1,0 +1,86 @@
+{
+    "header": {
+        "type": "esearch",
+        "version": "0.3"
+    },
+    "esearchresult": {
+        "count": "24",
+        "retmax": "20",
+        "retstart": "0",
+        "idlist": [
+            "26772920",
+            "26628916",
+            "26528275",
+            "26475230",
+            "26136726",
+            "25957152",
+            "25626525",
+            "25229852",
+            "24914974",
+            "24228818",
+            "23759867",
+            "23752618",
+            "23732694",
+            "23069613",
+            "22571470",
+            "22522682",
+            "22146852",
+            "19669941",
+            "17690465",
+            "11330708"
+        ],
+        "translationset": [
+            {
+                "from": "beta-glucosidase",
+                "to": "\"beta-glucosidase\"[MeSH Terms] OR \"beta-glucosidase\"[All Fields] OR (\"beta\"[All Fields] AND \"glucosidase\"[All Fields]) OR \"beta glucosidase\"[All Fields]"
+            }
+        ],
+        "translationstack": [
+            {
+                "term": "\"beta-glucosidase\"[MeSH Terms]",
+                "field": "MeSH Terms",
+                "count": "3597",
+                "explode": "Y"
+            },
+            {
+                "term": "\"beta-glucosidase\"[All Fields]",
+                "field": "All Fields",
+                "count": "6649",
+                "explode": "N"
+            },
+            "OR",
+            {
+                "term": "\"beta\"[All Fields]",
+                "field": "All Fields",
+                "count": "924332",
+                "explode": "N"
+            },
+            {
+                "term": "\"glucosidase\"[All Fields]",
+                "field": "All Fields",
+                "count": "14841",
+                "explode": "N"
+            },
+            "AND",
+            "GROUP",
+            "OR",
+            {
+                "term": "\"beta glucosidase\"[All Fields]",
+                "field": "All Fields",
+                "count": "6649",
+                "explode": "N"
+            },
+            "OR",
+            "GROUP",
+            {
+                "term": "glucose-tolerant[All Fields]",
+                "field": "All Fields",
+                "count": "860",
+                "explode": "N"
+            },
+            "AND",
+            "GROUP"
+        ],
+        "querytranslation": "(\"beta-glucosidase\"[MeSH Terms] OR \"beta-glucosidase\"[All Fields] OR (\"beta\"[All Fields] AND \"glucosidase\"[All Fields]) OR \"beta glucosidase\"[All Fields]) AND glucose-tolerant[All Fields]"
+    }
+}
